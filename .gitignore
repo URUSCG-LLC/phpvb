@@ -1,0 +1,12 @@
+
+#Don't version MAC files
+.DS_Store
+
+#Internal Developer file
+developer.txt
+
+#Don't version Subversion Files
+.svn
+
+
+
